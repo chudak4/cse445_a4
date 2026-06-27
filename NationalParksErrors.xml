@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NationalPark> 
+    <!-- 1.Grand Canyon -->
+    <NationalPark Rating="4.9">
+        <Name>Grand Canyon</Name> 
+        <Phone>928-638-7496</Phone> 
+        <Phone>888-297-2757</Phone> 
+        <Phone>866-499-2574</Phone> 
+        <Address NearestAirport="FlagStaff"> 
+            <Number>8</Number> 
+            <Street>S Entrance Road</Street> 
+            <City>Grand Canyon</City> 
+            <State>AZ</State> 
+            <Zip>86023</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 2.Cuyahoga Valley -->
+    <NationalPark Rating="4.5">
+        <Name>Cuyahoga Valley</Name> 
+        <Phone>440-717-3890</Phone> 
+        <Address NearestAirport="Akron-Canton"> 
+            <Number>15610</Number> 
+            <Street>Vaughn Road</Street> 
+            <City>Brecksville</City> 
+            <State>OH</State> 
+            <Zip>44141</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 3.Rocky Mountain-->
+    <NationalPark Rating="4.8">
+        <Name>Rocky</Name> 
+        <Name>Mountain</Name> 
+        <Phone>970-586-1206</Phone> 
+        <Address> 
+            <Number>1000</Number> 
+            <Street>US Hwy 36</Street> 
+            <City>Estes Park</City> 
+            <State>CO</State> 
+            <Zip>80517</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 4.Redwood -->
+    <NationalPark Rating="4.8">
+        <Name>Redwood</Name> 
+        <Phone>707-464-6101</Phone> 
+        <Address NearestAirport="Del Norte County"> 
+            <Number>1111</Number> 
+            <Street>Second Street</Street> 
+            <City>Crescent City</City> 
+            <State>CA</State> 
+            <Zip>95531</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 5.Zion -->
+    <NationalPark Rating="4.8">
+        <Name>Zion</Name> 
+        <Address NearestAirport="St. George Regional"> 
+            <Number>1</Number> 
+            <Street>Zion Park Blvd.</Street> 
+            <City>Springdale</City> 
+            <State>UT</State> 
+            <Zip>84767</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 6. Yosemite -->
+    <NationalPark Rating="4.8">
+        <Name>Yosemite</Name> 
+        <Phone>209-372-0200</Phone> 
+        <Address NearestAirport="Fresno Yosemite International"> 
+            <Number>9035</Number> 
+            <Street>Village Dr</Street> 
+            <City>Yosemite National Park</City> 
+            <State>CA</State> 
+            <Zip>95389</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 7. Yellowstone -->
+    <NationalPark Rating="4.5">
+        <Name>Yellowstone</Name> 
+        <Phone>307-344-7381</Phone> 
+        <Address NearestAirport="West Yellowstone"> 
+            <Number>100</Number> 
+            <Street>North Canyon Street</Street> 
+            <City>West Yellowstone</City> 
+            <State>MT</State> 
+            <Zip>59758</Zip> 
+    </NationalPark> 
+
+    <!-- 8. Virign Islands -->
+    <NationalPark Rating="4.8">
+        <Name>Virign Islands</Name> 
+        <Phone>340-776-6201</Phone> 
+        <Address NearestAirport="Cyril E. King"> 
+            <Number>1300</Number> 
+            <Street>Cruz Bay Creek</Street> 
+            <City>St. John</City> 
+            <State>VI</State> 
+            <Zip>00830</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 9. Great Smoky Mountains -->
+    <NationalPark Rating="4.9">
+        <Name>Great Smoky Mountains</Name> 
+        <Phone>865-436-1200</Phone> 
+        <Address NearestAirport="McGhee Tyson"> 
+            <Number>107</Number> 
+            <Street>Park Headquarters Road</Street> 
+            <City>Gatlinburg</City> 
+            <State>TN</State> 
+            <Zip>37738</Zip> 
+        </Address> 
+    </NationalPark> 
+
+    <!-- 10. Indiana Dunes -->
+    <NationalPark Rating="4.6">
+        <Name>Indiana Dunes</Name> 
+        <Phone>219-395-1882</Phone> 
+        <Address NearestAirport="South Bend International"> 
+            <Number>1100</Number> 
+            <Street>North Mineral Springs Road</Street> 
+            <City>Porter</City> 
+            <State>IN</State> 
+            <Zip>46304</Zip> 
+        </Address> 
+    </NationalPark> 
+
+</NationalParks>
