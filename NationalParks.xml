@@ -18,7 +18,8 @@
     <!-- 2.Cuyahoga Valley -->
     <NationalPark>
         <Name>Cuyahoga Valley</Name> 
-        <Phone>440-717-3890</Phone> 
+        <Phone>440-717-3890</Phone>
+        <Phone>555-555-5555</Phone>
         <Address NearestAirport="Akron-Canton"> 
             <Number>15610</Number> 
             <Street>Vaughn Road</Street> 
@@ -120,9 +121,10 @@
     </NationalPark> 
 
     <!-- 10. Indiana Dunes -->
-    <NationalPark Rating="4.6">
+    <NationalPark>
         <Name>Indiana Dunes</Name> 
         <Phone>219-395-1882</Phone> 
+        <Phone>456-865-9768</Phone>
         <Address NearestAirport="South Bend International"> 
             <Number>1100</Number> 
             <Street>North Mineral Springs Road</Street> 
