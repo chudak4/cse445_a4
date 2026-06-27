@@ -16,7 +16,7 @@
     </NationalPark> 
 
     <!-- 2.Cuyahoga Valley -->
-    <NationalPark Rating="4.5">
+    <NationalPark>
         <Name>Cuyahoga Valley</Name> 
         <Phone>440-717-3890</Phone> 
         <Address NearestAirport="Akron-Canton"> 
