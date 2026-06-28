@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns="https://chudak4.github.io/cse445_a4/NationalParks.xsd">
     <xs:element name="NationalParks">
         <xs:complexType>
             <xs:sequence>
