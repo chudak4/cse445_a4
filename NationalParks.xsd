@@ -15,7 +15,7 @@
                                         <xs:element name="Street" type="xs:string" minOccurs="1"/>
                                         <xs:element name="City" type="xs:string" minOccurs="1"/>
                                         <xs:element name="State" type="xs:string" minOccurs="1"/>
-                                        <xs:element name="Zip" type="xs:string" minOccurs="1"/>
+                                        <xs:element name="Zip" type="xs:int" minOccurs="1"/>
                                     </xs:sequence>
                                     <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
                                 </xs:complexType>
