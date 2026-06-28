@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://venus.sod.asu.edu/WSRepository/xml" 
     elementFormDefault="qualified" attributeFormDefault="unqualified"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    
+
     <xsd:annotation>
         <xsd:documentation xml:lang="en">
             National Parks 
@@ -35,7 +35,8 @@
             <xsd:element name="State" type="xsd:string" minOccurs="1"/>
             <xsd:element name="Zip" type="xsd:int" minOccurs="1"/>
         </xsd:sequence>
-        <xsd:attribute name="NearestAirport" type="xds:string" use="required"/>
+        <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
 
 </xsd:schema>
+
