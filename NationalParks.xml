@@ -7,11 +7,11 @@
         <Phone>888-297-2757</Phone> 
         <Phone>866-499-2574</Phone> 
         <Address NearestAirport="FlagStaff"> 
-            <Number>8</Number> 
+            <Number>"8"</Number> 
             <Street>S Entrance Road</Street> 
             <City>Grand Canyon</City> 
             <State>AZ</State> 
-            <Zip>86023</Zip> 
+            <Zip>"86023"</Zip> 
         </Address> 
     </NationalPark> 
 
@@ -21,11 +21,11 @@
         <Phone>440-717-3890</Phone>
         <Phone>555-555-5555</Phone>
         <Address NearestAirport="Akron-Canton"> 
-            <Number>15610</Number> 
+            <Number>"15610"</Number> 
             <Street>Vaughn Road</Street> 
             <City>Brecksville</City> 
             <State>OH</State> 
-            <Zip>44141</Zip> 
+            <Zip>"44141"</Zip> 
         </Address> 
     </NationalPark> 
 
